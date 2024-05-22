@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "bitmanip.h": "c",
+        "delay.h": "c",
+        "main_config.h": "c",
+        "eeprom.h": "c",
+        "main.h": "c",
+        "uart_interface.h": "c"
+    }
+}
